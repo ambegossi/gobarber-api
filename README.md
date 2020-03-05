@@ -49,7 +49,7 @@
 
 ## About
 
-Project developed at the [RocketSeat GoStack Bootcamp 🚀👨🏻‍🚀](https://rocketseat.com.br/gostack)
+Project developed at the [Rocketseat GoStack Bootcamp 🚀👨🏻‍🚀](https://rocketseat.com.br/gostack)
 
 ## :rocket: Technologies
 
@@ -74,7 +74,7 @@ Project developed at the [RocketSeat GoStack Bootcamp 🚀👨🏻‍🚀](https
 - [date-fns](https://date-fns.org/)
 - [Sentry](https://sentry.io/)
 - [DotEnv](https://www.npmjs.com/package/dotenv)
-- [VS Code][vc] with [ESLint][vceslint]
+- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
 
